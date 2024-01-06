@@ -1,5 +1,5 @@
 # devops
 - Modelos de arquitetura
-- Infraestrutura como código
+- IaC - Infraestrutura como código
 - Projetos Terraform
 - Projetos Ansible
